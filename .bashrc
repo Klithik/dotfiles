@@ -131,3 +131,4 @@ else
         echo "Start Hyprland with command Hyprland"
     fi
 fi
+bind -s 'set completion-ignore-case on'
